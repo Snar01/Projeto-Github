@@ -19,7 +19,3 @@
 ##                             O que então eu posso fazer com o código?
 - Você pode usar em seu servidor, porque aí está a fazer o uso privado que é o mais correto a fazer neste caso!
 
-##                                        Links
-- [Nexus Botlist](https://discord.gg/tBgvEzTc3W)
-- [EpicHost (minha loja)](https://discord.gg/EEYhDVsz9b)
-- [Zenyoo Palace 🏰](https://discord.gg/Q3RBKGvCdR)
